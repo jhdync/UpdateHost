@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>千千桌面</title>
+        <item>
+            <language>en</language>
+            <description>
+                <![CDATA[
+                    <ul>
+                    <li>1、修复已知bug</li>
+                    <li>2、修复未知bug</li>
+                    </ul>
+                ]]>
+            </description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="http://oss.arsoft.anyrtc.cn:2424/oss/soft/1/3/WeDesk_v1.0.1.zip" sparkle:shortVersionString="1.0.1" length="17624189" sparkle:version="2" type="application/octet-stream" sparkle:edSignature="NAkrPbm/jFWG9J7mEYnRwSX9VQFlQDyPGGnfPYukcYDbMKys34IZciE28JMh4Y31Tnu22GoLnlRr19tToenkCw=="/>
+        </item>
+    </channel></rss>
+
+
